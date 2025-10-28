@@ -22,11 +22,11 @@ The project is open-source and suitable for personal or educational development.
 
 ## Tech Stack
 
-**Frontend**: Streamlit (for simple and interactive web UI).
-**Backend/ETL**: Apache Airflow (task orchestration), PySpark (data processing), Snowflake (cloud storage, with free tier for tests).
-**Language**: Python 3.10+.
-**ML**: Scikit-learn or TensorFlow for prediction models (e.g., Random Forest for delays, time-series for flows).
-**Others**: Requests for APIs, Pandas for data manipulation.
+- **Frontend**: Streamlit (for simple and interactive web UI).
+- **Backend/ETL**: Apache Airflow (task orchestration), PySpark (data processing), Snowflake (cloud storage, with free tier for tests).
+- **Language**: Python 3.10+.
+- **ML**: Scikit-learn or TensorFlow for prediction models (e.g., Random Forest for delays, time-series for flows).
+- **Others**: Requests for APIs, Pandas for data manipulation.
 
 ## Prerequisites
 
