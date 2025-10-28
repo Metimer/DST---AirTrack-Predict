@@ -105,7 +105,8 @@ Run python train_ml.py with historical datasets (downloadable via links below).
 - **OpenWeatherMap**: Weather data for delay predictions (free tier). Link incoming
 - **BTS Delay Data**: US historical datasets for ML. Link incoming
 - **TSA Checkpoint**: US passenger flows (free). Link incoming
-- **Others**: AviationStack (limited free tier), Kaggle datasets for delays. Links incomings
+- **Others**: AviationStack (limited free tier)
+-  **Kaggle datasets** for delays. Links incomings
 
 **Note**: Respect free API limits to avoid blocks.
 
