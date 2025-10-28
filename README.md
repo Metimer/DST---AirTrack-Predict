@@ -135,4 +135,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 **Contact**
 
-For questions, open an issue on GitHub or contact us at [metinamerwane@gmail.com]//[ayoub.bouazzaoui@hotmail.com].
+For questions, open an issue on GitHub or contact us at [metinamerwane@gmail.com]//[ayoub.bouazzaoui@hotmail.com]//[samuel.autier@gmail.com].
