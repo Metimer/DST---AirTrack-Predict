@@ -94,7 +94,7 @@ Real-Time Tracking: The app displays an interactive map of flights via OpenSky d
 Predictions: Enter a flight/airport to get delay estimates (based on ML trained on BTS datasets).
 ETL: Airflow schedules jobs to pull API data, process with PySpark, and store in Snowflake.
 
-##To train ML models:
+## To train ML models:
 
 Run python train_ml.py with historical datasets (downloadable via links below).
 
