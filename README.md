@@ -9,11 +9,11 @@ This web application allows real-time tracking of air traffic, prediction of fli
 
 **Key Features**:
 
-Real-time flight tracking (positions, altitudes, speeds) via free APIs.
-Delay predictions based on historical and live data (weather, traffic).
-Passenger flow estimation via ML inferences (proxies like flight volume or airport checkpoints).
-Intuitive user interface with Streamlit for interactive dashboards.
-Automated ETL pipeline with Airflow to ingest and process data, stored in Snowflake (use a free/trial account for dev).
+- Real-time flight tracking (positions, altitudes, speeds) via free APIs.
+- Delay predictions based on historical and live data (weather, traffic).
+- Passenger flow estimation via ML inferences (proxies like flight volume or airport checkpoints).
+- Intuitive user interface with Streamlit for interactive dashboards.
+- Automated ETL pipeline with Airflow to ingest and process data, stored in Snowflake (use a free/trial account for dev).
 
 
 
@@ -100,11 +100,11 @@ Run python train_ml.py with historical datasets (downloadable via links below).
 
 ## Data Sources
 
-**OpenSky Network**: Real-time flight tracking (free). Link incoming
-**OpenWeatherMap**: Weather data for delay predictions (free tier). Link incoming
-**BTS Delay Data**: US historical datasets for ML. Link incoming
-**TSA Checkpoint**: US passenger flows (free). Link incoming
-**Others**: AviationStack (limited free tier), Kaggle datasets for delays. Links incomings
+- **OpenSky Network**: Real-time flight tracking (free). Link incoming
+- **OpenWeatherMap**: Weather data for delay predictions (free tier). Link incoming
+- **BTS Delay Data**: US historical datasets for ML. Link incoming
+- **TSA Checkpoint**: US passenger flows (free). Link incoming
+- **Others**: AviationStack (limited free tier), Kaggle datasets for delays. Links incomings
 
 **Note**: Respect free API limits to avoid blocks.
 
@@ -126,7 +126,7 @@ $ git push origin feature/new-feature
 Open a Pull Request.
 
 We encourage contributions to improve ML models or add new sources!
-License
+**License**
 This project is licensed under the MIT License. See the LICENSE file for details.
-Contact
+**Contact**
 For questions, open an issue on GitHub or contact us at [metinamerwane@gmail.com]//[ayoub.bouazzaoui@hotmail.com].
