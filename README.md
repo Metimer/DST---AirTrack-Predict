@@ -5,7 +5,8 @@
 
 
 ## Description
-This web application allows real-time tracking of air traffic, prediction of flight delays, and estimation of passenger flows using Machine Learning (ML) models. It is designed for developers, aviation enthusiasts, or analysts who want to visualize and analyze air data without a budget.
+This web application allows real-time tracking of air traffic, prediction of flight delays, and estimation of passenger flows using Machine Learning (ML) models. 
+It is designed for developers, aviation enthusiasts, or analysts who want to visualize and analyze air data without a budget.
 
 **Key Features**:
 
@@ -123,10 +124,14 @@ $ git commit -m 'Add new feature'
 ```bash
 $ git push origin feature/new-feature
 ```
-Open a Pull Request.
+Be free to open a Pull Request.
 
 We encourage contributions to improve ML models or add new sources!
+
 **License**
+
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 **Contact**
+
 For questions, open an issue on GitHub or contact us at [metinamerwane@gmail.com]//[ayoub.bouazzaoui@hotmail.com].
